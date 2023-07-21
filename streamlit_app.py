@@ -1,2 +1,2 @@
-
-print('hello my name is vaibhav')
+import streamlit
+streamlit.title('hello my name is vaibhav')
